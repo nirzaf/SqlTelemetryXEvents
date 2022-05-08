@@ -1,0 +1,10 @@
+﻿ALTER SERVER ROLE [sysadmin] ADD MEMBER [FAZRIN\nirza];
+
+
+GO
+ALTER SERVER ROLE [sysadmin] ADD MEMBER [NT SERVICE\SQLWriter];
+
+
+GO
+ALTER SERVER ROLE [sysadmin] ADD MEMBER [NT SERVICE\Winmgmt];
+
